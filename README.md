@@ -31,12 +31,6 @@ Feed it your resume (PDF or DOCX) and optional target Job Description, and the a
 | **Frontend** | Next.js 16 (App Router), React 19, Tailwind CSS v4, Lucide React |
 | **Audio Processing** | Web Audio API (`AudioContext`, `AnalyserNode`, `MediaRecorder`) |
 
----
-
-```
-
----
-
 ## Project Structure
 
 ```
